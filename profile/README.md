@@ -61,6 +61,19 @@ Digital elevation, hillshade, roadway, and administrative boundary datasets for 
 
 [Repository](https://github.com/bopendata/jefferson-county-dem-hillshade-dashboard) · [Live Dashboard](https://bopendata.github.io/jefferson-county-dem-hillshade-dashboard/)
 
+
+### Public Health & Healthcare Accessibility
+
+
+### Public Health & Healthcare Accessibility
+
+**Maternal and Neonatal Healthcare Accessibility Dashboard — Alabama**
+
+Spatial datasets and accessibility measures describing geographical disparities in access to neonatal and maternal healthcare services across Alabama.
+
+[Repository](https://github.com/bopendata/Maternity-Desert-Alabama) · [Live Dashboard](https://bopendata.github.io/Maternity-Desert-Alabama/)
+
+
 ## A Local and Multi-Domain Data Ecosystem
 
 B-OPEN is designed around the concept of a **local and multi-domain research data ecosystem**. Rather than replacing established global repositories or domain-specific data platforms, B-OPEN provides a local integration layer for derived spatial information.
