@@ -61,14 +61,6 @@ Digital elevation, hillshade, roadway, and administrative boundary datasets for 
 
 [Repository](https://github.com/bopendata/jefferson-county-dem-hillshade-dashboard) · [Live Dashboard](https://bopendata.github.io/jefferson-county-dem-hillshade-dashboard/)
 
-### Public Health & Healthcare Accessibility
-
-**Maternal and Neonatal Healthcare Accessibility Dashboard — Alabama**
-
-Spatial datasets and accessibility measures describing geographical disparities in access to neonatal and maternal healthcare services across Alabama.
-
-[Repository](https://github.com/bopendata/Maternity-Desert-Alabama) · [Live Dashboard](https://bopendata.github.io/Maternity-Desert-Alabama/)
-
 
 ## A Local and Multi-Domain Data Ecosystem
 
