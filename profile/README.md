@@ -61,10 +61,6 @@ Digital elevation, hillshade, roadway, and administrative boundary datasets for 
 
 [Repository](https://github.com/bopendata/jefferson-county-dem-hillshade-dashboard) · [Live Dashboard](https://bopendata.github.io/jefferson-county-dem-hillshade-dashboard/)
 
-
-### Public Health & Healthcare Accessibility
-
-
 ### Public Health & Healthcare Accessibility
 
 **Maternal and Neonatal Healthcare Accessibility Dashboard — Alabama**
